@@ -1,6 +1,6 @@
 nodejs-chat-complete
 ====================
-This is the completed code for a Hackers @ Berkeley node.js workshop.
+This is the completed code for Chiliseo.
 
 Requirements
 ============
